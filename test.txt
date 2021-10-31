@@ -1,0 +1,7 @@
+An array of objects with the following keys: age, first name, last name, address, salary.
+Remove duplicates from the array.
+Sort array on the base of the full name.
+Slugify the full name.
+If 2 objects have the same full name, sort on the basis of a higher salary.
+Add a new property level and give it A if the salary is above 60k, B if the salary ranges b/w 50k-60k, 
+C if the salary ranges b/w 40k-50k, D if the salary ranges b/w 30k-40k, and E if the salary is less than 30k
